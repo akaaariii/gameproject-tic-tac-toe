@@ -1,1 +1,2 @@
-# gameproject-tic-tac-toe
+# Tic Tac Toe
+0520 Web Development II game project
